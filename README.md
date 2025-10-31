@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @devG3e
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-devG3e is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Sinoxolo 👋
+   
+   🎓 Final-year Business IT student @ University of Johannesburg  
+   💻 Aspiring Cybersecurity Specialist & Software Developer  
+   🔐 Building: Security labs, automation tools, web applications
+   
+   ## 🛠️ Tech Stack
+   **Languages:** Python | C# | Reactnative | SQL | HTML/CSS/JS  
+   **Tools:** Kali Linux | Git | VS Code | SQL Server  
+   **Focus:** Cybersecurity | Software Development | Business Analysis
+   
+   ## 📫 Let's Connect
+   - 📧 sino.jeremiah31@gmail.com
+   - 🌐 [Portfolio](https://devg3e.netlify.app)
