@@ -1,6 +1,6 @@
 # Hi, I'm Sinoxolo 👋
    
-   🎓 Final-year Business IT student @ University of Johannesburg  
+   🎓 Business IT graduate @ University of Johannesburg  
    💻 Aspiring Cybersecurity Specialist & Software Developer  
    🔐 Building: Security labs, automation tools, web applications
    
@@ -10,5 +10,5 @@
    **Focus:** Cybersecurity | Software Development | Business Analysis
    
    ## 📫 Let's Connect
-   - 📧 sino.jeremiah31@gmail.com
-   - 🌐 [Portfolio](https://devg3e.netlify.app)
+   - 📧 ke.admin@devg3e.co.za
+   - 🌐 [Portfolio](https://devg3e.co.za)
